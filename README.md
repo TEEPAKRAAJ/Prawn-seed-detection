@@ -1,6 +1,6 @@
 ---
 
-### Post-Larva Prawn Seed Detection System
+## Post-Larva Prawn Seed Detection System
 
 **Project Overview**:  
 The **Post-Larva Prawn Seed Detection System** is designed to automate the process of detecting and counting post-larva prawn seeds in images. By leveraging advanced **image processing techniques**, this system helps hatcheries optimize seed counting accuracy, reduce manual labor, and enhance operational efficiency.
